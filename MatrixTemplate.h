@@ -10,7 +10,7 @@
 template<typename T>
 class MatrixTemplate {
 private:
-    int** matrix;
+    T** matrix;
     T initVal;
     int rows;
     int cols;
