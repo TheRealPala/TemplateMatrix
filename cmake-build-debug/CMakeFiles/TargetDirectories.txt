@@ -1,0 +1,3 @@
+/home/ale/CLionProjects/templateMatrix/cmake-build-debug/CMakeFiles/untitled2.dir
+/home/ale/CLionProjects/templateMatrix/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/ale/CLionProjects/templateMatrix/cmake-build-debug/CMakeFiles/rebuild_cache.dir
